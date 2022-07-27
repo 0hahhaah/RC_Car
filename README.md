@@ -1,7 +1,7 @@
 # 1학기 종합 PJT_RC Car
 ### 프로젝트 개요
 - 주제: 제어 가능한 RC카
-- 기술스택: Vue.js, node.js, Arduino, QtPy
+- 기술스택: Vue.js, node.js, RaspberryPi, QtPy
 - 프로젝트 기간: 2021.11.22 ~ 2021.11.25
 - 인원: 2명
 - 기능
